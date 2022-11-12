@@ -1,5 +1,10 @@
 # "PCMart" - A simple  e-commerce flutter app for computer accessories
 
+## Technologies
+- Flutter
+- Dart
+- Firebase
+
 ## Subsystems
 - Authentication (Signin/signup/signout)
 - Buy selected products
