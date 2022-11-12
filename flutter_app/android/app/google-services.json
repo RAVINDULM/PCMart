@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "947209665069",
+    "project_id": "pcmart-a5026",
+    "storage_bucket": "pcmart-a5026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947209665069:android:e3d75e980897a71d1796a4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947209665069-a1btphp2pgvh2ibtmdff6rnhjr4urkhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5UJzUCJyll-w_dbT-rTjqawg-2Fe457U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947209665069-a1btphp2pgvh2ibtmdff6rnhjr4urkhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
