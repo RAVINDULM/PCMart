@@ -20,3 +20,12 @@
 
 ## Screen Captures
 
+## Customer
+<div style="text-align:center"><img src="./Admin/lib/ScreenCaptures/3.png" /></div>
+<div style="text-align:center"><img src="./Admin/lib/ScreenCaptures/4.png" /></div>
+<div style="text-align:center"><img src="./Admin/lib/ScreenCaptures/5.png" /></div>
+
+## Owner
+<div style="text-align:center"><img src="./Admin/lib/ScreenCaptures/6.png" /></div>
+<div style="text-align:center"><img src="./Admin/lib/ScreenCaptures/7.png" /></div>
+<div style="text-align:center"><img src="./Admin/lib/ScreenCaptures/8.png" /></div>
